@@ -1,4 +1,4 @@
-Estudos.md
-Aqui irei anotar todos os aprendizador ique eu tiver obre Git e GitHub. Muito animada!
+# Estudos.md
+Aqui irei colocar tudo o que aprendi
 
 
